@@ -1,0 +1,13 @@
+.meal-card {
+  width: 100%;
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid #000;
+}
+
+.thumbnail {
+  width: 100%;
+  border-radius: 8px;
+}
